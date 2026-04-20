@@ -1,0 +1,34 @@
+# Git에서 제외할 파일/폴더
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Environment / secrets
+.env
+*.env
+secrets/
+credentials/
+
+# Hermes runtime state (절대 커밋 금지)
+.hermes/
+state.db
+sessions/
+logs/
+checkpoints/
+auth.json
+
+# Local work artifacts
+*.tmp
+*.bak
+*.swp
+*.log
