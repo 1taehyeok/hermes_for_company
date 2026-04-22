@@ -1,0 +1,6 @@
+﻿file_alias,item_name,document_type_key,file_format,path,notes
+sample_analysis_note,휴대용 예초기의 날,analysis_note,pdf,"\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\1. 생활용품\3. 휴대용 예초기의 날 및 보호덮개\휴대용 예초기의 날\분석노트 - 최종.pdf",샘플 등록
+sample_cover_sheet,휴대용 예초기의 날,cover_sheet,hwp,,추후 등록
+child_kickboard_analysis_note_pdf,어린이용 킥보드,analysis_note,pdf,"\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\13. 어린이용 킥보드\시험·검사 기록표 붙임 - P702-2-05(Rev.8).pdf",분석노트는 파일명에 분석노트가 아니라 붙임으로 존재
+child_kickboard_analysis_note_hwp,어린이용 킥보드,analysis_note,hwp,"\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\13. 어린이용 킥보드\시험·검사 기록표 붙임 - P702-2-05(Rev.8).hwp",분석노트 HWP 원본
+child_kickboard_cover_sheet_hwp,어린이용 킥보드,cover_sheet,hwp,"\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\13. 어린이용 킥보드\시험·검사 기록표 갑지(최종) _어린이용 킥보드.hwp",갑지는 파일명에 갑지로 존재
