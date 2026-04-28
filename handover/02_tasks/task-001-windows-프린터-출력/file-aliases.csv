@@ -1,6 +1,9 @@
 ﻿file_alias,item_name,document_type_key,file_format,path,notes
-sample_analysis_note,휴대용 예초기의 날,analysis_note,pdf,"\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\1. 생활용품\3. 휴대용 예초기의 날 및 보호덮개\휴대용 예초기의 날\분석노트 - 최종.pdf",샘플 등록
-sample_cover_sheet,휴대용 예초기의 날,cover_sheet,hwp,,추후 등록
-child_kickboard_analysis_note_pdf,어린이용 킥보드,analysis_note,pdf,"\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\13. 어린이용 킥보드\시험·검사 기록표 붙임 - P702-2-05(Rev.8).pdf",분석노트는 파일명에 분석노트가 아니라 붙임으로 존재
-child_kickboard_analysis_note_hwp,어린이용 킥보드,analysis_note,hwp,"\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\13. 어린이용 킥보드\시험·검사 기록표 붙임 - P702-2-05(Rev.8).hwp",분석노트 HWP 원본
-child_kickboard_cover_sheet_hwp,어린이용 킥보드,cover_sheet,hwp,"\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\13. 어린이용 킥보드\시험·검사 기록표 갑지(최종) _어린이용 킥보드.hwp",갑지는 파일명에 갑지로 존재
+sample_analysis_note,휴대용 예초기의 날,analysis_note,pdf,\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\1. 생활용품\3. 휴대용 예초기의 날 및 보호덮개\휴대용 예초기의 날\분석노트 - 최종.pdf,샘플 등록
+sample_cover_sheet,휴대용 예초기의 날,cover_sheet,hwp,\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\1. 생활용품\3. 휴대용 예초기의 날 및 보호덮개\휴대용 예초기의 날\분석노트 갑지-최종(~05.26).hwp,2026-04-28 갑지 경로 확인
+child_kickboard_analysis_note_pdf,어린이용 킥보드,analysis_note,pdf,\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\13. 어린이용 킥보드\시험·검사 기록표 붙임 - P702-2-05(Rev.8).pdf,분석노트는 파일명에 분석노트가 아니라 붙임으로 존재
+child_kickboard_analysis_note_hwp,어린이용 킥보드,analysis_note,hwp,\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\13. 어린이용 킥보드\시험·검사 기록표 붙임 - P702-2-05(Rev.8).hwp,분석노트 HWP 원본
+child_kickboard_cover_sheet_hwp,어린이용 킥보드,cover_sheet,hwp,\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\13. 어린이용 킥보드\시험·검사 기록표 갑지(최종) _어린이용 킥보드.hwp,갑지는 파일명에 갑지로 존재
+toy_analysis_note_pdf,완구,analysis_note,pdf,\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\1. 완구\[출력용]갑지+분석노트(~7.7.).pdf,사용자 확정: 앞으로 완구 분석노트는 이 출력용 PDF를 의미
+toy_reasonable_misuse_pdf,완구,reasonable_misuse,pdf,\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\1. 완구\[출력용]합리적 오용 최종.pdf,완구 합리적 오용 PDF 원본
+complete_toy_reasonable_misuse_pdf,완구,reasonable_misuse,pdf,\\192.168.1.63\어린이용품\(0)어린이 및 생활용품 역학\1. KC인증\2. 어린이제품\1. 완구\[출력용]합리적 오용 최종.pdf,완구 합리적오용 요청어 기준 빠른 조회용 alias
